@@ -15,7 +15,7 @@ import javax.swing.JPanel;
 import com.sun.management.OperatingSystemMXBean;
 
 /**
- * A simple GUI that tracks and display memory and CPU usage of the current running JVM. Can be simply embedded in a java
+ * A simple GUI that tracks and displays memory and CPU usage of the current running JVM. Can be simply embedded in a java
  * application.
  * 
  * The code is inspired from Apache Batik's "MemoryMonitor", but is rewritten in order not to rely any external library.
