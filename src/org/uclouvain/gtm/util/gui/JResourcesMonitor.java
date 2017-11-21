@@ -1,4 +1,3 @@
-package org.uclouvain.gtm.util.gui;
 /**
  * Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except
  * in compliance with the License. You may obtain a copy of the License at
@@ -11,6 +10,7 @@ package org.uclouvain.gtm.util.gui;
  * limitations under the License.
  */
 
+package org.uclouvain.gtm.util.gui;
 
 import com.sun.management.OperatingSystemMXBean;
 
@@ -41,7 +41,6 @@ import javax.swing.JPanel;
  * @author bart.jourquin@uclouvain.be
  * @version 1.0, June 2015
  */
-
 public class JResourcesMonitor extends JFrame {
 
   private static final long serialVersionUID = -6145945442924301622L;
