@@ -10,3 +10,4 @@ The code is inspired from Apache Batik's "MemoryMonitor", but is rewritten
 in order not to rely on any external library.
   
 Java 7 or later is needed.
+
